@@ -1,0 +1,25 @@
+body{
+    background-color:rgb(236, 227, 189);
+    color: rgb(22, 20, 20);
+}
+h2{
+    color: blue;
+    font-style: italic;
+}
+h3{color: rgb(90, 128, 197);}
+h4{color: rgb(85, 117, 175);}
+h5{color: rgb(99, 128, 180);}
+h6{color: rgb(86, 111, 156);]}
+h6{size: 80%;}
+a{ background-color: rgb(235,137,91);
+    color: wheat;
+    padding:1em 1.5em;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+ul{font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;}
+a{
+    background-color: rgb(89, 81, 160);
+    color: wheat;
+    padding:1em 1.5em;
+}
